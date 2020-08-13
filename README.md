@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  Projeto da Semana OmniStack 11.0
+  Projeto Desenvolvido na Semana OmniStack 11.0
 </h4>
 
 <p align="center">
@@ -31,7 +31,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ### 💻 Projeto
 
 O BeTheHero é um projeto que visa conectar pessoas que querem fazer a diferença, realizando doações monetárias a ONG's (Organizações não governamentais), de forma a permitir que as mesmas sigam transformando a realidade da sociedade, permitindo mais assistência social, saúde, educação, cultura e desenvolvimento, por exemplo.
-
 
 ### 🤔 Como contribuir
 
